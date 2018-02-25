@@ -7,7 +7,7 @@ namespace Lands_and_owners
         static void Main(string[] args)
         {
 
-
+// nice
             Money[] allOwners = new Money[]
             {
                 new Money("Vasia",100_000,00),
