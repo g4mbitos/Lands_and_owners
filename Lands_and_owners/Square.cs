@@ -2,7 +2,7 @@
 
 namespace Lands_and_owners
 {
-    class Square
+    class Square // Square
     {
         static int _priceForAcr = 10;
 
