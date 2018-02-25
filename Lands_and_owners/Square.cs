@@ -63,6 +63,7 @@ namespace Lands_and_owners
             Width = width;
         }
 
+
         static public Square Sum(Square sq1, Square sq2) // Method for addition 2 exemplar of Square
         {
             if (sq1.Length == sq2.Length)
